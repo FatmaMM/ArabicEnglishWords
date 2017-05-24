@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">English_Arabic words</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+    <!-- Category name for the vocabulary words for Days [CHAR LIMIT=20] -->
+    <string name="category_Days">Days of Week</string>
+
+    <!-- Category name for the vocabulary words for Months [CHAR LIMIT=20] -->
+    <string name="category_Months">Months</string>
+
+    <!-- Category name for the vocabulary words for Animals [CHAR LIMIT=20] -->
+    <string name="category_animals">Animals</string>
+
+
+</resources>
